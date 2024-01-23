@@ -1,0 +1,7 @@
+
+.ipynb_checkpoints/DataWrangling-checkpoint.ipynb
+.ipynb_checkpoints/Untitled1-checkpoint.ipynb
+*.DS_Store
+*.txt
+*.jpg
+*.csv
